@@ -1,1 +1,1 @@
-# Southeast-Utah-COVID-19-data
+# Southeast Utah COVID-19 data
